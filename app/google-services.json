@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "128313070818",
+    "firebase_url": "https://chatwithva-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chatwithva",
+    "storage_bucket": "chatwithva.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128313070818:android:95ac7045fe9f26abf6fabb",
+        "android_client_info": {
+          "package_name": "com.example.chatproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE3JeseNprt6aDyHAJHaIvAvM1hJ5GoTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
